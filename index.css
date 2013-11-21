@@ -1,0 +1,30 @@
+table {
+	border-width: 2px;
+	border-color: #000000;
+	border-style: solid;
+	border-collapse: collapse;
+	text-align: center;
+}
+
+th {
+	border: solid 1px #202020;
+	padding: 2px;
+	font-family: Verdana;
+	font-size: 12pt;
+}
+
+td {
+	border: 1px solid #808080;
+	padding: 2px;
+	font-family: Verdana;
+	font-size: 10pt;
+}
+
+.tag {
+	font-family: Courier;
+	font-size: 10pt;
+}
+
+.beschreibung {
+	text-align: left;
+}
